@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "otpless-node-js-auth-sdk": "^1.0.8"
+  }
+}
